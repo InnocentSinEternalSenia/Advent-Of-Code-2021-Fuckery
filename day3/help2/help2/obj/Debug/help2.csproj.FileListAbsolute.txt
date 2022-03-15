@@ -1,0 +1,7 @@
+C:\Users\oyiii\source\repos\help2\help2\bin\Debug\help2.exe.config
+C:\Users\oyiii\source\repos\help2\help2\bin\Debug\help2.exe
+C:\Users\oyiii\source\repos\help2\help2\bin\Debug\help2.pdb
+C:\Users\oyiii\source\repos\help2\help2\obj\Debug\help2.csprojAssemblyReference.cache
+C:\Users\oyiii\source\repos\help2\help2\obj\Debug\help2.csproj.CoreCompileInputs.cache
+C:\Users\oyiii\source\repos\help2\help2\obj\Debug\help2.exe
+C:\Users\oyiii\source\repos\help2\help2\obj\Debug\help2.pdb
